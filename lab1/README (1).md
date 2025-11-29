@@ -10,7 +10,8 @@
 
 
 
-![App Screenshot](https://github.com/Hard1Evil/labs/blob/main/lab1/Task1.jpg?raw=true)Рисунок 1 - Отримання курсу валют
+![App Screenshot](https://github.com/Hard1Evil/labs/blob/main/lab1/Task1.jpg?raw=true)
+<p align="center">Рисунок 1 - Отримання курсу валют</p>
 
 
  - Завдання 2. Отримати курс валют із сайту НБУ за попередній тиждень з використанням python-бібліотеки requests
