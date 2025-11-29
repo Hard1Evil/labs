@@ -10,7 +10,7 @@
 
 
 
-<p align="center"> ![App Screenshot](https://github.com/Hard1Evil/labs/blob/main/lab1/Task1.jpg?raw=true)</p>
+<p align="center"> <img src="https://github.com/Hard1Evil/labs/blob/main/lab1/Task1.jpg?raw=true"/></p>
 <p align="center"> Рисунок 1 - Отримання курсу валют</p>
 
 
