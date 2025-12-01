@@ -9,8 +9,8 @@
 
 Створюємо обробку запиту метода GET сервером, щоб на запит повертало рядок “Hello World!” (рис. 1).
 
-<p align="center"> <img src="https://github.com/Hard1Evil/labs/blob/main/Lab2/photo_2025-12-01_15-43-07.jpg?raw=true"/>
-Рисунок 1 - Обробка метода GET сервером </p>
+<p align="center"> <img src="https://github.com/Hard1Evil/labs/blob/main/Lab2/photo_2025-12-01_15-43-07.jpg?raw=true"/> </p>
+<p align="center">Рисунок 1 - Обробка метода GET сервером </p>
 
 - Завдання 3. Написати просту обробку запиту метода GET сервером зі шляхом та параметрами в URL, наприклад http://127.0.0.1:8000/currency?today&key=value. Повертати статичне значення курса валют, наприклад “USD - 41,5”.  Для flask отримати параметри запиту за допомогою request.args.get(), для bottle -  request.query().
 
