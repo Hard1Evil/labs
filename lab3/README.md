@@ -9,17 +9,19 @@
 
 За допомогою Postman виконуємо запит GET для отримання каталогу товарів (рис. 1).
 
-
-https://github.com/Hard1Evil/labs/blob/main/lab3/1.jpg?raw=true
+<p align="center"> <img src="https://github.com/Hard1Evil/labs/blob/main/lab3/1.jpg?raw=true"/> </p>
+<p align="center">Рисунок 1 - перегяд каталогу товарів</p>
 
 
 Наступним кроком виконуємо GET запит певного товару за ідентифікатором (рис. 2).
 
-https://github.com/Hard1Evil/labs/blob/main/lab3/2.jpg?raw=true
+<p align="center"> <img src="https://github.com/Hard1Evil/labs/blob/main/lab3/2.jpg?raw=true"/> </p>
+Рисунок 2 - Виклик певного товару з каталогу
 
 Після успішно отриманих GET запитів - додаємо товар до каталогу за допомогою запиту POST (рис. 3).
 
-https://github.com/Hard1Evil/labs/blob/main/lab3/3.jpg?raw=true
+<p align="center"> <img src="https://github.com/Hard1Evil/labs/blob/main/lab3/3.jpg?raw=true"/> </p>
+<p align="center">Рисунок 3 - Додання товару в каталог</p>
 
 Перевіряємо доданий до каталогу товар за допомогою GET запиту (рис. 4).
 
