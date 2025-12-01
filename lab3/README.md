@@ -25,13 +25,16 @@
 
 Перевіряємо доданий до каталогу товар за допомогою GET запиту (рис. 4).
 
-https://github.com/Hard1Evil/labs/blob/main/lab3/4.jpg?raw=true
+<p align="center"> <img src="https://github.com/Hard1Evil/labs/blob/main/lab3/4.jpg?raw=true"/> </p>
+<p align="center"> Рисунок 4 - Перевірка додання товару </p>
 
 Тепер перевіряємо видалення товару з каталогу запитом DELETE (рис. 5).
 
-https://github.com/Hard1Evil/labs/blob/main/lab3/5.jpg?raw=true
+<p align="center"> <img src="https://github.com/Hard1Evil/labs/blob/main/lab3/5.jpg?raw=true"/> </p>
+<p align="center"> Рисунок 5 - Видалення товару
 
 Перевіряємо видалення товару з каталогу запитом GET (рис. 6).
 
-https://github.com/Hard1Evil/labs/blob/main/lab3/6.jpg?raw=true
+<p align="center"> <img src="https://github.com/Hard1Evil/labs/blob/main/lab3/6.jpg?raw=true"/> </p>
+<p align="center"> Рисунок 6 - Перевірка видалення</p>
 
