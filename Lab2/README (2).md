@@ -16,6 +16,6 @@
 
 Створюємо  обробку запиту метода GET сервером зі шляхом та параметрами в URL для повернення статичного значення курсу валют (рис. 2).
 
-![App Screenshot](https://github.com/Hard1Evil/labs/blob/main/Lab2/photo_2025-12-01_15-54-22.jpg?raw=true)
-Рисунок 2 - Повернення статичного курсу валют 
+<p align="center"> <img src="https://github.com/Hard1Evil/labs/blob/main/Lab2/photo_2025-12-01_15-54-22.jpg?raw=true"/> </p>
+<p align="center"> Рисунок 2 - Повернення статичного курсу валют </p>
 
